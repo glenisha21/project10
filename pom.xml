@@ -38,7 +38,7 @@
               <!--change to ur actual class-->
             </manifest>
           </archive>
-        </configuaration>
+        </configuration>
           </plugin>
     </plugins>
 </project>
