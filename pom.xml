@@ -34,7 +34,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>com.mavenproject10.App</mainClass>
+              <mainClass> com.program10.lab10.App</mainClass>
               <!--change to ur actual class-->
             </manifest>
           </archive>
